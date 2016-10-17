@@ -1,1 +1,1 @@
-web: hello-vapor --env=production --workdir="./"
+web: APP --env=production --workdir="./"
